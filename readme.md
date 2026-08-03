@@ -68,4 +68,4 @@ At the end, thank you homies for the greet resources and task. It’s really eas
 ## References
 
 1.[W3Schools Python File Writing Documentation](https://www.w3schools.com/python/python_file_write.asp)
- 2. [MIA Python Basics Training Video](https://youtu.be/kTaqR1WyT8A?si=dPeh0qiLZAIaPB-S)
+ 2. [Build a CLI Application in Python](https://youtu.be/kTaqR1WyT8A?si=dPeh0qiLZAIaPB-S)
